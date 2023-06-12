@@ -1,3 +1,7 @@
+17.253.142.4	mac.com
+
+204.79.197.203	ntp.msn.com
+
 78.140.180.43	trade.mql5.com
 78.140.180.86	content.mql5.com
 78.140.180.202	gwt1.mql5.com
