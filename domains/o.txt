@@ -1,0 +1,4 @@
+185.26.182.111	addons.opera.com
+185.26.182.103	opera.com
+107.167.110.216	speeddials.opera.com
+107.167.110.216	weather.opera-api.com
