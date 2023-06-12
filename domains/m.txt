@@ -1,0 +1,12 @@
+78.140.180.43	trade.mql5.com
+78.140.180.86	content.mql5.com
+78.140.180.202	gwt1.mql5.com
+89.187.118.55	gwt2.mql5.com
+27.111.161.151	gwt3.mql5.com
+78.140.180.15	gwt4.mql5.com
+94.130.2.59	gwt5.mql5.com
+89.187.118.56	gwt6.mql5.com
+78.140.180.159	gwt7.mql5.com
+177.154.156.116	gwt8.mql5.com
+142.215.208.237	gwt9.mql5.com
+139.99.70.95	gwt10.mql5.com
