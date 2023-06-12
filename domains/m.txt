@@ -2,7 +2,8 @@
 
 204.79.197.203	ntp.msn.com
 
-78.140.180.43	trade.mql5.com
+#78.140.180.43	trade.mql5.com
+142.215.208.235	trade.mql5.com
 78.140.180.86	content.mql5.com
 78.140.180.202	gwt1.mql5.com
 89.187.118.55	gwt2.mql5.com
